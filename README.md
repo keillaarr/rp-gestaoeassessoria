@@ -9,18 +9,13 @@ Desenvolvido com **HTML5**, **CSS3** e **JavaScript**.
 
 ##  Badges de Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![HostGator](https://img.shields.io/badge/HostGator-FF6600?style=for-the-badge&logo=hostgator&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![HostGator](https://img.shields.io/badge/HostGator-FF6600?style=for-the-badge&logo=hostgator&logoColor=white)
 
 ---
 
 ## Screenshot do Site
 
-![Screenshot do Site](src/assets/screenshot.png)  
-> Substitua `screenshot.png` pelo print da sua tela principal.
+<img width="1892" height="855" alt="image" src="https://github.com/user-attachments/assets/9b72b9b4-d006-4444-9f4a-e0acec23c649" />
 
 ---
 
@@ -35,14 +30,14 @@ Desenvolvido com **HTML5**, **CSS3** e **JavaScript**.
 
 ---
 
-## 💡 Funcionalidades
+##  Funcionalidades
 
-- ✅ **Design Responsivo** – Layout adaptável para desktops, tablets e smartphones.  
-- ✅ **Cards Interativos** – Hover effects e sombra para destaque visual.  
-- ✅ **Formulário de Contato** – Envio via **FormSubmit** (sem backend).  
-- ✅ **Tipografia Personalizada** – RoxboroughCF para títulos e Garet para textos.  
-- ✅ **Cores Harmonizadas** – Paleta de laranja, cinza e preto para melhor contraste.  
-- ✅ **Seções Claras e Objetivas** – Facilita navegação e compreensão dos serviços.  
+- **Design Responsivo** – Layout adaptável para desktops, tablets e smartphones.  
+- **Cards Interativos** – Hover effects e sombra para destaque visual.  
+- **Formulário de Contato** – Envio via **FormSubmit** (sem backend).  
+- **Tipografia Personalizada** – RoxboroughCF para títulos e Garet para textos.  
+- **Cores Harmonizadas** – Paleta de laranja, cinza e preto para melhor contraste.  
+- **Seções Claras e Objetivas** – Facilita navegação e compreensão dos serviços.  
 
 ---
 
